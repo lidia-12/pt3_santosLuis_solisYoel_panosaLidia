@@ -1,3 +1,53 @@
+/*****************CSS INDEX****************************/
+.sobre_mi{width: 25%;
+        text-align: center;
+        height: 80%;
+        -webkit-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
+        -moz-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
+        box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
+        margin-bottom: 2px}
+
+.inicio_{display: flex;
+         width: 70%;
+         padding: 5px;
+         margin-left: auto;
+         margin-right: auto}
+
+.sobre_mi_text{text-align: justify;
+               padding: 15px}
+
+.libro{background-color: #eae8e8;
+        margin: 5px;
+        padding: 3px;
+        border-radius: 2px}
+.apuntame{background-color: darkseagreen;
+          border-color: #7aa17a;
+          width: 100%;
+          padding: 5px}
+
+.seccion_ejemplos{width: 75%;}
+.contenedor_ejemplos{display: flex;
+                      margin: 4px}
+.ejemplo{width: 50%;
+         margin-bottom: 100px;
+         text-align: center;}
+
+.imagen_ejemplo{width: 80%;
+                margin-left: 2%;
+                margin-top: 5%;
+                margin-bottom: 1%;}
+
+.titulo_ejemplo{text-decoration: none;
+                color: black}
+.titulo_ejemplo:hover{color: #7aa17a;
+                      font-weight: bold}
+
+.fecha{ margin-left: 10%;
+        margin-right: 10%;
+        border-bottom-style: solid;
+        border-top-style: solid;
+        border-color: darkkhaki}
+/*****************CSS LISTADO****************************/
 .contenedor_listado{width: 70%;
                     margin-left: auto;
                     margin-right: auto}
@@ -5,10 +55,12 @@
 .intro_receta{padding: 2px;}
 .tipo_receta{-webkit-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
                 -moz-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
-                box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);}
+                box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
+                margin-bottom: 2px}
 
 .imagen_header{ text-align: center;
                 margin: 10px;}
+
 .menu_nav{text-align: center;
           padding: 10px;
           border-radius: 2px;
@@ -27,9 +79,15 @@
           margin: 5px;
           border-radius: 2px;}
 
-.active, .menu_opc:hover{background-color: #7aa17a;}
+.active, .menu_opc:hover{background-color: whitesmoke;
+                        color: #7ABA96;
+                        font-weight: bold;
+                        padding: 15px;}
+
 .active{background-color: slategray}
-.contenedor_flex {display: flex;}
+
+.contenedor_flex {margin-top: 5px;
+                    display: flex;}
 
 .preview_receta{background-color: white;
                 height:100% ;
@@ -62,4 +120,4 @@
               height: 120px;
               margin: 4px;
               float: left;
-              padding-top: 25px}
+              padding-top:10px}

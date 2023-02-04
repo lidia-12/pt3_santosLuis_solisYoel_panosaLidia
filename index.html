@@ -1,37 +1,69 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Delicias Kitchen</title>
-    <link rel="stylesheet" type="text/css" href="/CSS/estilo.css" >
-</head>
-<body>
-  <header>
-    <div class="imagen_header">
-      <img alt="Delicias Kitchen" src="imagenes/delicias.png">
-    </div>
-    <nav class="menu_nav">
-      <a class="menu_opc" href="index.html">INICIO</a>
-      <a class="menu_opc" href="">SOBRE MÍ</a>
-      <a class="menu_opc" href="listado/listado.html">RECETAS</a>
-      <a class="menu_opc" href="">CONTACTO</a>
-      <a class="menu_opc" href="">OTRAS COSAS</a>
-    </nav>
-  </header>
-  <aside id="sectiondiv">
-      <h3 class="titulosinicio">Sobre mí</h3>
-      <img alt="Isa Gil" src="imagenes/isagil.png">
-      <article class="sobremi_text">Hola, bienvenid@ a mi blog, un espacio donde quiero compartir mis recetas vegetarianas y veganas favoritas...</article>
-      <h3 class="titulosinicio">Suscríbete a mi blog</h3>
-      <img alt="Mi libro" src="imagenes/libro.png">
-      <article class="sobremi_text">Y consigue GRATIS mi eBook con 10 recetas exclusivas con superalimentos.</article>
-      <button type="submit">Apúntame</button>
-  </aside>
-  <main id="asectiondiv2">
-  <article id="receptes">
-    <h3 class="titulosinicio">Pasta con salsa de coliflor y pimienta de Jamaica</h3>
-    <img alt="Pasta" src="imagenes/Pasta.jpg">
-  </article>
-  </main>
-</body>
+    <head>
+        <meta charset="UTF-8">
+        <title>Delicias Kitchen</title>
+        <link rel="stylesheet" type="text/css" href="/CSS/estilo.css" >
+    </head>
+    <body>
+        <header>
+            <div class="imagen_header">
+                <img alt="Delicias Kitchen" src="imagenes/delicias.png">
+            </div>
+            <nav class="menu_nav">
+                <a class="menu_opc" href="index.html">INICIO</a>
+                <a class="menu_opc" href="">SOBRE MÍ</a>
+                <a class="menu_opc" href="listado/listado.html">RECETAS</a>
+                <a class="menu_opc" href="">CONTACTO</a>
+                <a class="menu_opc" href="">OTRAS COSAS</a>
+            </nav>
+        </header>
+        <div class="inicio_">
+            <div class="sobre_mi">
+              <h3 class="titulosinicio">Sobre mí</h3>
+              <img alt="Isa Gil" src="imagenes/isagil.png">
+              <article class="sobre_mi_text">Hola, bienvenid@ a mi blog, un espacio donde quiero compartir mis recetas vegetarianas y veganas favoritas...</article>
+              <div class="libro">
+                  <h3 class="titulosinicio">Suscríbete a mi blog</h3>
+                  <img alt="blog" src="imagenes/libro.png">
+                  <article class="sobre_mi_text">Y consigue GRATIS mi eBook con 10 recetas exclusivas con superalimentos.</article>
+                  <button class="apuntame" type="submit">Apúntame</button>
+              </div>
+            </div>
+            <div class="seccion_ejemplos">
+                <div class="contenedor_ejemplos">
+                    <div class="ejemplo">
+                        <img class="imagen_ejemplo" alt="Pasta" src="imagenes/Pasta.jpg">
+                        <a class="titulo_ejemplo" href="#">
+                            <p>Pasta con salsa de coliflor y pimienta de Jamaica</p>
+                        </a>
+                            <p class="fecha">4 Febrero 2023</p>
+                    </div>
+                    <div class="ejemplo">
+                        <img class="imagen_ejemplo" alt="Pasta" src="imagenes/galletas.jpg">
+                        <a class="titulo_ejemplo" href="#">
+                            <p>Galletas de avena, rosa y lima</p>
+                        </a>
+                           <p class="fecha">4 Febrero 2023</p>
+                    </div>
+                </div>
+                <div class="contenedor_ejemplos">
+                    <div class="ejemplo">
+                        <img class="imagen_ejemplo" alt="Pasta" src="imagenes/mijo.jpg">
+                        <a class="titulo_ejemplo" href="#">
+                            <p>Mijo cremoso con lentejas, hortalizas y shiitake</p>
+                        </a>
+                            <p class="fecha">4 Febrero 2023</p>
+                    </div>
+                    <div class="ejemplo">
+                        <img class="imagen_ejemplo" alt="Pasta" src="imagenes/calabacines.jpg">
+                        <a class="titulo_ejemplo" href="#">
+                            <p>Calabacines rellenos de arroz negros y calabaza</p>
+                        </a>
+                            <p class="fecha">4 Febrero 2023</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
 </html>
