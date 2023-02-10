@@ -15,9 +15,8 @@
           -moz-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
           box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);}
 
-.active, .menu_opc:hover{background-color: whitesmoke;
-                        color: #7ABA96;
-                        padding: 0.5%}
+.menu_opc:hover{color: #7ABA96;
+                padding: 0.5%}
 .footer{text-align: center;
           padding: 2%;
           background: #302F2F;
@@ -27,11 +26,14 @@
 
 .menu_opc{text-decoration: none;
           color: black;
-          font-size:12px;
+          font-weight:bold;
+          font-size: 100%;
           padding: 0%;
           margin: 2%;
           border-radius: 7px;}
 
+.active, .menu_opc:hover { color:#7ABA96
+                }
 .footer_text{text-decoration: none;
           color: white;
           padding: 0%;
@@ -93,6 +95,12 @@
         border-bottom-width: 0.05mm;
         border-color: #6C5E46;}
 
+.descripcion_receta_inicio { text-align: justify;
+                            width: 80%;
+                            margin-left: 10%;
+                            margin-right:10%;
+                            margin-top: 5%;
+                            margin-bottom: 1%;}
 
 /*********************************CSS RECETAS*************************************/
 
@@ -141,3 +149,6 @@
                 padding-top: 2%;
                 margin-right: 2%;
                 margin-bottom: 2%}
+
+/***************  En construccion  *************************/
+.construccion_page{border-width:bold}
