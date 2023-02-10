@@ -55,21 +55,26 @@ body{font-family:arial}
 
 /****************CSS SOBRE MI************************************/
 .sobre_mi_text{text-align: justify;
-               padding: 15px;
+               padding: 5%;
                color: #8B8B8B;}
 
 .libro{background-color: #eae8e8;
-        margin: 5px;
-        padding: 3px;
-        border-radius: 2px}
+        margin: 5%;
+        padding: 3%;
+        border-radius: 2%}
 
 .apuntame{border: none;
           background-color: #7ABA96;
           width: 100%;
-          padding: 2px;}
+          padding: 2%;}
 
+.isa_imagen{width: 50%}
+
+.libro_imagen{width: 70%}
 /*************************CSS EJEMPLOS*****************************/
+
 .seccion_ejemplos{width: 75%;}
+
 .contenedor_ejemplos{display: flex;
                       margin: 4px}
 .ejemplo{width: 50%;
