@@ -68,6 +68,10 @@ body{font-family:arial}
           width: 100%;
           padding: 2%;}
 
+.apuntame:hover{background: #8B8B8B;}
+
+.apuntame:active{background: #8B8B8B;}
+
 .isa_imagen{width: 50%}
 
 .libro_imagen{width: 70%}
@@ -89,9 +93,9 @@ body{font-family:arial}
 
 .titulo_ejemplo{text-decoration: none;
                 font-weight: bold;
-                color: black}
+                color: black;}
 
-.titulo_ejemplo:hover{color: #7aa17a;}
+.titulo_ejemplo:hover{ color: #7aa17a; }
 
 .fecha{ font-size: 12px;
         margin-left: 10%;
