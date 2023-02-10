@@ -1,3 +1,6 @@
+/********************          ********************/
+body{font-family:arial}
+
 /*************CSS HEADER Y MENU NAV******************/
 .imagen_header{ text-align: center;
                 margin: 2%;}
@@ -151,4 +154,6 @@
                 margin-bottom: 2%}
 
 /***************  En construccion  *************************/
-.construccion_page{border-width:bold}
+.construccion_page{padding:10%;
+                    text-align:center}
+.construccion_text{ font-size:150%}
