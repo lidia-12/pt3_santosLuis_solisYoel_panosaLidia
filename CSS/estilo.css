@@ -125,3 +125,18 @@ body{font-family:arial}
 .construccion_page{padding:10%;
                     text-align:center}
 .construccion_text{ font-size:150%}
+
+/***************** Contacto ********************************/
+fieldset {
+  margin: 2%;
+  padding: 0% 2% 2%;
+  border: 1% solid #666;
+  border-radius: 15px;
+  padding-top: 2%;
+}
+
+.form_legend {width: 25%;
+        text-align: center;
+        height: 80%;
+        margin: 1%
+        }

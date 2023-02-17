@@ -24,10 +24,44 @@ Pt3. HTML Maquetació
                 <a class="menu_opc" href="#">CONTACTO</a>
                 <a class="menu_opc" href="../otras_cosas/otras_cosas.html">OTRAS COSAS</a>
             </nav>
-            <div class="construccion_page">
-                <img class="cosntruccion_imagen" alt="En construccion" src="../imagenes/construccion2.jpg" >
-                <p class="construccion_text">Esta página esta en construccion my friend, disculpa las molestias.</p>
+            <div>
+            <form action="" method="get" class="formulario_general">
+              <fieldset>
+                <legend class="form_legend">Formulario de contacto</legend>
+                <p>Rellena este formulario para contactar conmigo</p>
+                <p class="form_normaltext"><label>Nombre: <input type="text" name="nombre"></label></p>
+                <p class="form_normaltext"><label>Tu dirección de correo electronico: <input type="text" name="correo"></label></p>
+                <p class="form_normaltext"><label>Tu mensaje: <input type="text" name="mensaje"></label></p>
+              </fieldset>
+              <fieldset>
+                <legend class="form_legend">Nuevas Recetas</legend>
+                <p class="form_h2">
+                  ¿Qué recetas te hubiera gustado encontrar en esta página?
+                  <p class="form_h3"><label>Categoria: </label></p>
+                  <p class="form_normaltext"><label><input type="checkbox" name="html"> Pasta </label></p>
+                  <p class="form_normaltext"><label><input type="checkbox" name="html"> Carne </label></p>
+                  <p class="form_normaltext"><label><input type="checkbox" name="html"> Pescado </label></p>
+                  <p class="form_normaltext"><label><input type="checkbox" name="html"> Postres </label></p>
+                  <p class="form_normaltext"><label><input type="checkbox" name="html"> Salsa y complementos </label></p>
+                  <p><label>Nombre de la receta: <input type="text" name="nombre"></label></p>
+                </p>
+              </fieldset>
+              <p>
+                <input type="submit" value="Enviar mensaje">
+                <input type="reset" value="Borrar">
+              </p>
+            </form>
             </div>
         </header>
+         <footer>
+                <nav class="footer">
+                    <a class="footer_text" href="">FACEBOOK</a>
+                    <a class="footer_text" href="">TWITTER</a>
+                    <a class="footer_text" href="">INSTAGRAM</a>
+                    <a class="footer_text" href="">PINTEREST</a>
+                    <a class="footer_text" href="">EMAIL</a>
+                    <a class="footer_text" href="">RSS</a>
+                </nav>
+            </footer>
     </body>
 </html>
