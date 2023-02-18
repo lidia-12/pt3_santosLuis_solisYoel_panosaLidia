@@ -10,71 +10,71 @@ body{font-family:arial}
 
 /*************CSS HEADER Y MENU NAV******************/
 .imagen_header{ text-align: center;
-                margin: 2%;}
+    margin: 2%;}
 
 .menu_nav{text-align: center;
-          padding: 1%;
-          transition: all 300ms;
-          margin-bottom: 1%;
-          border-bottom-style: solid;
-          border-top-style: solid;
-          border-top-width: 0.05mm;
-          border-bottom-width: 0.05mm;
-          border-color: #6C5E46}
+    padding: 1%;
+    transition: all 300ms;
+    margin-bottom: 1%;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    border-top-width: 0.05mm;
+    border-bottom-width: 0.05mm;
+    border-color: #6C5E46}
 
 .menu_opc:hover{color: #7ABA96;}
 
 .footer{text-align: center;
-          padding: 2%;
-          margin-top: 0.5%;
-          background: #302F2F;
-          -webkit-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
-          -moz-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
-          box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);}
+    padding: 2%;
+    margin-top: 0.5%;
+    background: #302F2F;
+    -webkit-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
+    -moz-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
+    box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);}
 
 .menu_opc{text-decoration: none;
-          color: black;
-          font-weight:bold;
-          font-size: 100%;
-          padding: 0%;
-          margin: 2%;
-          border-radius: 7px;}
+    color: black;
+    font-weight:bold;
+    font-size: 100%;
+    padding: 0%;
+    margin: 2%;
+    border-radius: 7px;}
 
 .active, .menu_opc:hover { color:#7ABA96}
 
 .footer_text{text-decoration: none;
-          color: white;
-          padding: 0%;
-          margin: 2%;
-          font-size:12px;
-          border-radius: 7px;}
+    color: white;
+    padding: 0%;
+    margin: 2%;
+    font-size:12px;
+    border-radius: 7px;}
 /*****************CSS INDEX****************************/
 .sobre_mi{width: 25%;
-        text-align: center;
-        height: 80%;
-        margin-bottom: 1%}
+    text-align: center;
+    height: 80%;
+    margin-bottom: 1%}
 
 .inicio_{display: flex;
-         width: 70%;
-         padding: 0.5%;
-         margin-left: auto;
-         margin-right: auto;}
+    width: 70%;
+    padding: 0.5%;
+    margin-left: auto;
+    margin-right: auto;}
 
 
 /****************CSS SOBRE MI************************************/
 .sobre_mi_text{text-align: justify;
-               padding: 5%;
-               color: #8B8B8B;}
+    padding: 5%;
+    color: #8B8B8B;}
 
 .libro{background-color: #eae8e8;
-        margin: 5%;
-        padding: 3%;
-        border-radius: 2%}
+    margin: 5%;
+    padding: 3%;
+    border-radius: 2%}
 
 .apuntame{border: none;
-          background-color: #7ABA96;
-          width: 100%;
-          padding: 2%;}
+    background-color: #7ABA96;
+    width: 100%;
+    padding: 2%;}
 
 .apuntame:hover{background: #8B8B8B;}
 
@@ -90,111 +90,167 @@ body{font-family:arial}
 .seccion_ejemplos{width: 75%;}
 
 .contenedor_ejemplos{display: flex;
-                      margin: 0.5%}
+    margin: 0.5%}
 .ejemplo{width: 50%;
-         text-align:center;}
+    text-align:center;}
 
 .imagen_ejemplo{width: 80%;
-                margin-left: 2%;
-                margin-top: 5%;
-                margin-bottom: 1%;}
+    margin-left: 2%;
+    margin-top: 5%;
+    margin-bottom: 1%;}
 
 .titulo_ejemplo{text-decoration: none;
-                font-weight: bold;
-                color: black;}
+    font-weight: bold;
+    color: black;}
 
 .titulo_ejemplo:hover{ color: #7aa17a; }
 
 .fecha{ font-size: 12px;
-        margin-left: 10%;
-        margin-right: 10%;
-        margin-bottom: 1%;
-        border-bottom-style: solid;
-        border-top-style: solid;
-        border-top-width: 0.05mm;
-        border-bottom-width: 0.05mm;
-        border-color: #6C5E46;}
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 1%;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    border-top-width: 0.05mm;
+    border-bottom-width: 0.05mm;
+    border-color: #6C5E46;}
 
 .descripcion_receta_inicio { text-align: justify;
-                            width: 80%;
-                            margin-left: 10%;
-                            margin-right:10%;
-                            margin-top: 5%;
-                            margin-bottom: 1%;}
+    width: 80%;
+    margin-left: 10%;
+    margin-right:10%;
+    margin-top: 5%;
+    margin-bottom: 1%;}
 
 /***************  En construccion  *************************/
 .construccion_page{padding:10%;
-                    text-align:center}
+    text-align:center}
 .construccion_text{ font-size:150%}
 
 /********************** listado ******************************/
 
 .contenedor_recetas{width: 70%;
-                   margin-left: auto;
-                   margin-right: auto}
+    margin-left: auto;
+    margin-right: auto}
 
 
 .tipo_receta{-webkit-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
-               -moz-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
-               box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
-               margin-bottom: 2px}
+    -moz-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
+    box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
+    margin-bottom: 2px}
 
 
 .icon-recetas{width: 10%;
-             float: left;
-             padding-top:3%}
+    float: left;
+    padding-top:3%}
 
 
 .intro_receta{padding: 2%;}
 
 
 .contenedor_flex_recetas{margin-top: 0.2%;
-                 display: flex;}
+    display: flex;}
 
 
 .preview_receta{background-color: white;
-               height: 100%;
-               padding: 0;
-               margin: 1%;
-               border-radius: 1%;
-               -webkit-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
-               -moz-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
-               box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
-               transition: all 300ms}
+    height: 100%;
+    padding: 0;
+    margin: 1%;
+    border-radius: 1%;
+    -webkit-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
+    -moz-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
+    box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
+    transition: all 300ms}
 
 
 .preview_features{width:35%;
-                 padding-left: 5%;
-                 padding-top: 5%;
-                 color: slategray}
+    padding-left: 5%;
+    padding-top: 5%;
+    color: slategray}
 
 
 .preview_receta:hover{background-color: darkseagreen;
-                     transform: scale(1.01)}
+    transform: scale(1.01)}
 
 
 .link_preview{width: 50%;
-             text-decoration: none;
-             margin: 0.5%}
+    text-decoration: none;
+    margin: 0.5%}
 
 
 .preview_imagenes{width: 50%;
-               float: right;
-               padding-top: 2%;
-               margin-right: 2%;
-               margin-bottom: 2%}
+    float: right;
+    padding-top: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%}
+/***************** receptas **********************************/
+.receta_body{
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.receta_titol{
+    width: 100%;
+    text-align: center;
+}
+.receta_ingredientes{
+    padding: 1%;
+    -webkit-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
+    -moz-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
+    box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
+    margin-bottom: 2px
+}
+.recepta_instruccions{
+    padding: 1%;
+    -webkit-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
+    -moz-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
+    box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
+    margin-bottom: 2px
+}
 
+/******************* Paginacion **************/
+.paginacion {
+	margin:20px 0;
+}
+
+.paginacion ul {
+
+	list-style:none;
+	text-align: center;
+}
+
+.paginacion ul li {
+	display:inline-block;
+}
+
+.paginacion ul li a {
+    border-radius: 10px;
+	display:block;
+	padding:10px 20px;
+	color:#fff;
+	background:#7aa17a;
+	text-decoration: none;
+}
+
+.paginacion ul li a:hover {
+	background:slategray;
+}
+
+.paginacion ul li .active {
+	background:#7aa17a;
+	font-weight:bold;
+}
 /***************** Contacto ********************************/
 fieldset {
-  margin: 2%;
-  padding: 0% 2% 2%;
-  border: 1% solid #666;
-  border-radius: 15px;
-  padding-top: 2%;
+    margin: 2%;
+    padding: 0% 2% 2%;
+    border: solid;
+    border-radius: 15px;
+    padding-top: 2%;
 }
 
 .form_legend {width: 25%;
-        text-align: center;
-        height: 80%;
-        margin: 1%
-        }
+    text-align: center;
+    height: 80%;
+    margin: 1%
+}
