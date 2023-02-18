@@ -26,6 +26,7 @@ body{font-family:arial}
 
 .footer{text-align: center;
           padding: 2%;
+          margin-top: 0.5%;
           background: #302F2F;
           -webkit-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
           -moz-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
