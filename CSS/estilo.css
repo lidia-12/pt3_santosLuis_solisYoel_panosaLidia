@@ -281,3 +281,13 @@ fieldset {
                     border:none;}
 
 .form_button:active{background: #bcdcca;}
+
+/********************************ANUNICO*********************/
+.anuncio{width: 25%;
+    text-align: center;
+    height: 80%;
+    margin-top: 1%}
+.anuncio_gif{width: 100%;
+    text-align: center;
+    height: 1%;
+    margin-top: 1%}
