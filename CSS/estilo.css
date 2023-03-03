@@ -131,13 +131,16 @@ body{font-family:arial}
 
 .contenedor_recetas{width: 70%;
     margin-left: auto;
-    margin-right: auto}
+    margin-right: auto;
+    padding-top: 1%;
+    padding-bottom: 1%}
 
 
 .tipo_receta{-webkit-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
     -moz-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
     box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
-    margin-bottom: 2px}
+    margin-bottom: 1%;
+    padding-top: 1%}
 
 
 .icon-recetas{width: 12%;
@@ -148,7 +151,7 @@ body{font-family:arial}
 .intro_receta{padding: 2%;}
 
 
-.contenedor_flex_recetas{margin-top: 0.2%;
+.contenedor_flex_recetas{margin-top: 1%;
     display: flex;}
 
 
@@ -183,30 +186,6 @@ body{font-family:arial}
     padding-top: 2%;
     margin-right: 2%;
     margin-bottom: 2%}
-/***************** receptas **********************************/
-.receta_body{
-    width: 70%;
-    margin-left: auto;
-    margin-right: auto;
-}
-.receta_titol{
-    width: 100%;
-    text-align: center;
-}
-.receta_ingredientes{
-    padding: 1%;
-    -webkit-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
-    -moz-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
-    box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
-    margin-bottom: 2px
-}
-.recepta_instruccions{
-    padding: 1%;
-    -webkit-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
-    -moz-box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
-    box-shadow: 4px -4px 19px -8px rgba(0,0,0,0.27);
-    margin-bottom: 2px
-}
 
 /******************* Paginacion **************/
 .paginacion {
@@ -282,6 +261,10 @@ fieldset {
 
 .form_button:active{background: #bcdcca;}
 
+.formulario_general{width: 70%;
+                    margin-left: auto;
+                    margin-right: auto;}
+
 /********************************ANUNCIO*********************/
 .anuncio{width: 25%;
     text-align: center;
@@ -291,3 +274,49 @@ fieldset {
     text-align: center;
     height: 1%;
     margin-top: 1%}
+
+
+/*****************************RECETA************************/
+.receta_titol{text-align: center;
+    height: 80%;
+    margin: 1%;
+    color: black;
+    font-weight:bold;
+    font-size: 120%;
+    padding-top: 2%;
+    padding-bottom: 2%;}
+
+.receta_body{width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 2%;
+    margin-bottom: 2%;}
+
+.receta_ingredientes{display: flex;
+padding-left: 10%;
+paddin-right: 10%;
+padding-top: 0%;
+padding-bottom: 2%;}
+
+.lista_ingredientes{width: 50%}
+
+.receta-imagen {width: 40%;}
+
+.receta-imagen img{width: 100%}
+
+.ingredientes_h2{color: black;
+    font-weight:bold;
+    font-size: 100%;
+    padding-left: 5%}
+
+.receta_text{color: #8B8B8B;
+    padding: 2%}
+
+.recepta_instruccions{display: flex;
+padding-left: 0%;
+paddin-right: 10%;
+padding-top: 2%;
+padding-bottom: 2%;}
+
+.passos_lista{padding-top: 2%;
+        padding-right: 6%}
