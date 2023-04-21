@@ -14,7 +14,7 @@
                     <nav class="menu_nav">
                         <a class="menu_opc" href="../index.html">INICIO</a>
                         <a class="menu_opc" href="../sobre_mi/sobre_mi.html">SOBRE MÍ</a>
-                        <a class="menu_opc" href="listado.html">RECETAS</a>
+                        <a class="menu_opc" href="recetas.xml">RECETAS</a>
                         <a class="menu_opc" href="../contacto/contacto.html">CONTACTO</a>
                         <a class="menu_opc" href="../otras_cosas/otras_cosas.html">OTRAS COSAS</a>
                     </nav>
@@ -31,16 +31,17 @@
                                 verduras, carnes, mariscos y otros ingredientes para crear platos completos y equilibrados.</p>
                         </div>
                     </div>
-                    <xsl:for-each select="//receta">
-                        <div class="contenedor_flex_recetas">
-                            <div class="preview_receta">
-                                <td><img class="preview_imagenes" src="{imagen/@url}" alt="Pomodoro"/></td>
-                                <h4><xsl:value-of select="nombre"/></h4>
-                                <p><strong>Dificultad: </strong> <em><xsl:value-of select="difultad"/></em></p>
-                                <p><strong>Cocina: </strong> <em><xsl:value-of select="cocina"/></em></p>
-                                <p><strong>Vegano: </strong> <em><xsl:value-of select="vegano"/></em></p>
+                    <xsl:for-each select="//receta[position() >= 2 and position() &lt;= 5 ]">
+                            <xsl:sort select="nombre"/>
+                            <div class="contenedor_flex_recetas">
+                                <div class="preview_receta">
+                                    <td><img class="preview_imagenes" src="{imagen/@url}" alt="Pomodoro"/></td>
+                                    <h4><xsl:value-of select="nombre"/></h4>
+                                    <p><strong>Dificultad: </strong> <em><xsl:value-of select="difultad"/></em></p>
+                                    <p><strong>Cocina: </strong> <em><xsl:value-of select="cocina"/></em></p>
+                                    <p><strong>Vegano: </strong> <em><xsl:value-of select="vegano"/></em></p>
+                                </div>
                             </div>
-                        </div>
                     </xsl:for-each>
                 </div>
                 <footer>
