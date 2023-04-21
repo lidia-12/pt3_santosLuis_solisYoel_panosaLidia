@@ -35,6 +35,7 @@
         <vegano>No</vegano>
         <tiempo-preparacion>90 minutos</tiempo-preparacion>
         <imagen url = "../imagenes/Pastas/lasagne.jpg"/>
+        <pagina link_pag = "../receta/receta2.html"/>
         <ingredientes>
             <ingrediente>500 g de carne molida</ingrediente>
             <ingrediente>1 cebolla mediana picada</ingrediente>
@@ -69,6 +70,7 @@
         <tiempo-preparacion>25 minutos</tiempo-preparacion>
         <porciones>4</porciones>
         <imagen url = "../imagenes/Pastas/fettuchchine.jpg"/>
+        <pagina link_pag = "../receta/receta3.html"/>
         <ingredientes>
             <ingrediente>400 g de fettuccine</ingrediente>
             <ingrediente>1/2 taza de mantequilla</ingrediente>
@@ -87,12 +89,391 @@
         </instrucciones>
     </receta>
     <receta>
-        <nombre>PASTA AL POMODORO</nombre>
+        <nombre>CARBONARA</nombre>
         <difultad>Facil</difultad>
         <cocina>Italiana</cocina>
         <vegano>Si</vegano>
         <tiempo-preparacion>20 minutos</tiempo-preparacion>
-        <imagen url = "../imagenes/Pastas/Pomodoro.jpg"/>
+        <imagen url = "../imagenes/Pastas/carbonara.jpg"/>
+        <pagina link_pag = "../receta/receta4.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>PESTO GENOVESE</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/Pestp.jpeg"/>
+        <pagina link_pag = "../receta/receta5.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>ARRABIATA</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/Arrabiata.jpeg"/>
+        <pagina link_pag = "../receta/receta6.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>MACARRONES CON QUESO</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/macarrones.jpg"/>
+        <pagina link_pag = "../receta/receta7.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Spaghetti con vologne</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/vongole.jpg"/>
+        <pagina link_pag = "../receta/receta8.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Camaron</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/camaron.jpg"/>
+        <pagina link_pag = "../receta/receta9.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Ceviche</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/cebiche.jpg"/>
+        <pagina link_pag = "../receta/receta10.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Durun</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/durum.jpg"/>
+        <pagina link_pag = "../receta/receta11.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Estofado</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/estafado.jpeg"/>
+        <pagina link_pag = "../receta/receta12.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Huevo</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/huevo.jpg"/>
+        <pagina link_pag = "../receta/receta13.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Flamenquin</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/flamenquin.png"/>
+        <pagina link_pag = "../receta/receta14.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Manzana Cortada</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/manzana.jpg"/>
+        <pagina link_pag = "../receta/receta15.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Ensaimada</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/pan.jpg"/>
+        <pagina link_pag = "../receta/receta16.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Pizza</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/pizza.jpg"/>
+        <pagina link_pag = "../receta/receta17.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Nata con Almendras</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/nataalmendras.jpg"/>
+        <pagina link_pag = "../receta/receta18.html"/>
         <ingredientes>
             <ingrediente>500 g de spaghetti</ingrediente>
             <ingrediente>1 cebolla grande</ingrediente>
@@ -119,6 +500,7 @@
         <vegano>Si</vegano>
         <tiempo-preparacion>20 minutos</tiempo-preparacion>
         <imagen url = "../imagenes/Pastas/Pomodoro.jpg"/>
+        <pagina link_pag = "../receta/receta.html"/>
         <ingredientes>
             <ingrediente>500 g de spaghetti</ingrediente>
             <ingrediente>1 cebolla grande</ingrediente>
@@ -139,12 +521,73 @@
         </instrucciones>
     </receta>
     <receta>
-        <nombre>SPAGHETTI AL POMODORO</nombre>
+        <nombre>LASAÑA DE CARNE</nombre>
+        <difultad>Media</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>No</vegano>
+        <tiempo-preparacion>90 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/lasagne.jpg"/>
+        <pagina link_pag = "../receta/receta2.html"/>
+        <ingredientes>
+            <ingrediente>500 g de carne molida</ingrediente>
+            <ingrediente>1 cebolla mediana picada</ingrediente>
+            <ingrediente>2 dientes de ajo picados</ingrediente>
+            <ingrediente>2 latas de tomates pelados (400 g cada una)</ingrediente>
+            <ingrediente>2 cucharadas de pasta de tomate</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+            <ingrediente>250 g de queso ricotta</ingrediente>
+            <ingrediente>1 huevo</ingrediente>
+            <ingrediente>1/4 de taza de hojas de albahaca picadas</ingrediente>
+            <ingrediente>12 láminas de lasaña precocida</ingrediente>
+            <ingrediente>250 g de queso mozzarella rallado</ingrediente>
+            <ingrediente>1/4 de taza de queso parmesano rallado</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Precalienta el horno a 180°C.</paso>
+            <paso>En una sartén grande, cocina la carne molida a fuego medio hasta que esté dorada.</paso>
+            <paso>Añade la cebolla y el ajo y cocina por unos minutos hasta que estén tiernos.</paso>
+            <paso>Añade los tomates pelados, la pasta de tomate, el azúcar, la sal y la pimienta. Cocina a fuego lento durante unos 30 minutos.</paso>
+            <paso>En un tazón pequeño, mezcla el queso ricotta con el huevo y la albahaca.</paso>
+            <paso>En un molde para hornear de 22x33 cm, coloca una capa de láminas de lasaña precocida, seguida de una capa de salsa de carne y otra de la mezcla de queso ricotta. Repite hasta que se terminen los ingredientes, terminando con una capa de queso mozzarella y el queso parmesano rallado.</paso>
+            <paso>Cubre el molde con papel aluminio y hornea durante 25 minutos. Retira el papel aluminio y hornea durante otros 25 minutos o hasta que el queso esté dorado y burbujeante.</paso>
+            <paso>Deja reposar la lasaña durante 10 minutos antes de cortarla y servirla.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>FETTUCCINE ALFREDO</nombre>
+        <difultad>Media</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>No</vegano>
+        <tiempo-preparacion>25 minutos</tiempo-preparacion>
+        <porciones>4</porciones>
+        <imagen url = "../imagenes/Pastas/fettuchchine.jpg"/>
+        <pagina link_pag = "../receta/receta3.html"/>
+        <ingredientes>
+            <ingrediente>400 g de fettuccine</ingrediente>
+            <ingrediente>1/2 taza de mantequilla</ingrediente>
+            <ingrediente>1 taza de crema de leche</ingrediente>
+            <ingrediente>1 taza de queso parmesano rallado</ingrediente>
+            <ingrediente>Perejil picado al gusto</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los fettuccine en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, derrite la mantequilla en una sartén a fuego medio-bajo.</paso>
+            <paso>Añade la crema de leche y el queso parmesano. Revuelve bien hasta que el queso se haya derretido y la salsa esté bien mezclada.</paso>
+            <paso>Cuando los fettuccine estén listos, escúrrelos y añádelos a la sartén con la salsa. Revuelve bien para que los fettuccine queden bien cubiertos con la salsa.</paso>
+            <paso>Adereza con perejil picado al gusto, sal y pimienta al gusto.</paso>
+            <paso>Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>CARBONARA</nombre>
         <difultad>Facil</difultad>
         <cocina>Italiana</cocina>
         <vegano>Si</vegano>
         <tiempo-preparacion>20 minutos</tiempo-preparacion>
-        <imagen url = "../imagenes/Pastas/Pomodoro.jpg"/>
+        <imagen url = "../imagenes/Pastas/carbonara.jpg"/>
+        <pagina link_pag = "../receta/receta4.html"/>
         <ingredientes>
             <ingrediente>500 g de spaghetti</ingrediente>
             <ingrediente>1 cebolla grande</ingrediente>
@@ -165,12 +608,13 @@
         </instrucciones>
     </receta>
     <receta>
-        <nombre>SPAGHETTI AL POMODORO</nombre>
+        <nombre>PESTO GENOVESE</nombre>
         <difultad>Facil</difultad>
         <cocina>Italiana</cocina>
         <vegano>Si</vegano>
         <tiempo-preparacion>20 minutos</tiempo-preparacion>
-        <imagen url = "../imagenes/Pastas/Pomodoro.jpg"/>
+        <imagen url = "../imagenes/Pastas/Pestp.jpeg"/>
+        <pagina link_pag = "../receta/receta5.html"/>
         <ingredientes>
             <ingrediente>500 g de spaghetti</ingrediente>
             <ingrediente>1 cebolla grande</ingrediente>
@@ -191,12 +635,337 @@
         </instrucciones>
     </receta>
     <receta>
-        <nombre>SPAGHETTI AL POMODORO</nombre>
+        <nombre>ARRABIATA</nombre>
         <difultad>Facil</difultad>
         <cocina>Italiana</cocina>
         <vegano>Si</vegano>
         <tiempo-preparacion>20 minutos</tiempo-preparacion>
-        <imagen url = "../imagenes/Pastas/Pomodoro.jpg"/>
+        <imagen url = "../imagenes/Pastas/Arrabiata.jpeg"/>
+        <pagina link_pag = "../receta/receta6.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>MACARRONES CON QUESO</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/macarrones.jpg"/>
+        <pagina link_pag = "../receta/receta7.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Spaghetti con vologne</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/vongole.jpg"/>
+        <pagina link_pag = "../receta/receta8.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Camaron</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/camaron.jpg"/>
+        <pagina link_pag = "../receta/receta9.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Ceviche</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/cebiche.jpg"/>
+        <pagina link_pag = "../receta/receta10.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Durun</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/durum.jpg"/>
+        <pagina link_pag = "../receta/receta11.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Estofado</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/estafado.jpeg"/>
+        <pagina link_pag = "../receta/receta12.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Huevo</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/huevo.jpg"/>
+        <pagina link_pag = "../receta/receta13.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Flamenquin</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/flamenquin.png"/>
+        <pagina link_pag = "../receta/receta14.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Manzana Cortada</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/manzana.jpg"/>
+        <pagina link_pag = "../receta/receta15.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Ensaimada</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/pan.jpg"/>
+        <pagina link_pag = "../receta/receta16.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Pizza</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/pizza.jpg"/>
+        <pagina link_pag = "../receta/receta17.html"/>
+        <ingredientes>
+            <ingrediente>500 g de spaghetti</ingrediente>
+            <ingrediente>1 cebolla grande</ingrediente>
+            <ingrediente>2 dientes de ajo</ingrediente>
+            <ingrediente>4 tomates</ingrediente>
+            <ingrediente>1/4 de taza de albahaca</ingrediente>
+            <ingrediente>2 cucharadas de aceite de oliva</ingrediente>
+            <ingrediente>1 cucharadita de azúcar</ingrediente>
+            <ingrediente>Sal y pimienta al gusto</ingrediente>
+        </ingredientes>
+        <instrucciones>
+            <paso>Pon a cocer los spaghetti en agua con sal durante 8-10 minutos.</paso>
+            <paso>Mientras tanto, pica la cebolla y los ajos.</paso>
+            <paso>En una sartén, calienta el aceite de oliva y añade la cebolla y los ajos. Sofríe por unos minutos hasta que estén dorados.</paso>
+            <paso>Pela y pica los tomates. Añádelos a la sartén con la cebolla y los ajos. Agrega también la mitad de la albahaca y el azúcar. Cocina a fuego medio-bajo durante unos 10 minutos.</paso>
+            <paso>Cuando los spaghetti estén listos, escúrrelos y añádelos a la sartén con la salsa de tomate. Mezcla bien para que los spaghetti queden bien cubiertos con la salsa.</paso>
+            <paso>Divide los spaghetti entre cuatro platos. Agrega la albahaca restante por encima y un poco de queso parmesano rallado si lo deseas. Sirve caliente.</paso>
+        </instrucciones>
+    </receta>
+    <receta>
+        <nombre>Nata con Almendras</nombre>
+        <difultad>Facil</difultad>
+        <cocina>Italiana</cocina>
+        <vegano>Si</vegano>
+        <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/nataalmendras.jpg"/>
+        <pagina link_pag = "../receta/receta18.html"/>
         <ingredientes>
             <ingrediente>500 g de spaghetti</ingrediente>
             <ingrediente>1 cebolla grande</ingrediente>
