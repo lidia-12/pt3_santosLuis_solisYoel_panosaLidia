@@ -7,6 +7,7 @@
         <cocina>Italiana</cocina>
         <vegano>Si</vegano>
         <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/Pomodoro.jpg"/>
         <ingredientes>
             <ingrediente>500 g de spaghetti</ingrediente>
             <ingrediente>1 cebolla grande</ingrediente>
@@ -32,6 +33,7 @@
         <cocina>Italiana</cocina>
         <vegano>No</vegano>
         <tiempo-preparacion>90 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/lasagne.jpg"/>
         <ingredientes>
             <ingrediente>500 g de carne molida</ingrediente>
             <ingrediente>1 cebolla mediana picada</ingrediente>
@@ -65,6 +67,7 @@
         <vegano>No</vegano>
         <tiempo-preparacion>25 minutos</tiempo-preparacion>
         <porciones>4</porciones>
+        <imagen url = "../imagenes/Pastas/fettuchchine.jpg"/>
         <ingredientes>
             <ingrediente>400 g de fettuccine</ingrediente>
             <ingrediente>1/2 taza de mantequilla</ingrediente>
@@ -88,6 +91,7 @@
         <cocina>Italiana</cocina>
         <vegano>Si</vegano>
         <tiempo-preparacion>20 minutos</tiempo-preparacion>
+        <imagen url = "../imagenes/Pastas/Pomodoro.jpg"/>
         <ingredientes>
             <ingrediente>500 g de spaghetti</ingrediente>
             <ingrediente>1 cebolla grande</ingrediente>

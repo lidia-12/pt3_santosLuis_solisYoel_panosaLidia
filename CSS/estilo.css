@@ -155,7 +155,7 @@ body{font-family:arial}
 
 
 .contenedor_flex_recetas{margin-top: 1%;
-    display: flex;}
+    display: block;}
 
 
 .preview_receta{background-color: white;
@@ -185,7 +185,7 @@ body{font-family:arial}
     margin: 0.5%}
 
 
-.preview_imagenes{width: 50%;
+.preview_imagenes{width: 30%;
     float: right;
     padding-top: 2%;
     margin-right: 2%;

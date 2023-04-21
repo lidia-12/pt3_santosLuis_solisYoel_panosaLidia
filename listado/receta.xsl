@@ -20,23 +20,26 @@
                     </nav>
                 </header>
                 <div class="contenedor_recetas">
-                <div class="tipo_receta">
-                    <img class="icon-recetas" src="../icons/chef2.png" alt="receta"/>
-                    <div class="intro_receta">
-                        <h2>Recetas</h2>
-                        <p class="intro_recetas">La pasta es un ingrediente básico en la cocina italiana y es muy versátil. Se puede cocinar
-                            de muchas maneras diferentes, desde pastas simples con salsas ligeras hasta platos elaborados
-                            con ingredientes más complejos. Algunos de los platos de pasta más populares incluyen spaghetti
-                            con salsa de tomate, lasagne, carbonara, alfredo y marinara. La pasta también se puede cocinar con
-                            verduras, carnes, mariscos y otros ingredientes para crear platos completos y equilibrados.</p>
+                    <div class="tipo_receta">
+                        <img class="icon-recetas" src="../icons/chef2.png" alt="receta"/>
+                        <div class="intro_receta">
+                            <h2>Recetas</h2>
+                            <p>La pasta es un ingrediente básico en la cocina italiana y es muy versátil. Se puede cocinar
+                                de muchas maneras diferentes, desde pastas simples con salsas ligeras hasta platos elaborados
+                                con ingredientes más complejos. Algunos de los platos de pasta más populares incluyen spaghetti
+                                con salsa de tomate, lasagne, carbonara, alfredo y marinara. La pasta también se puede cocinar con
+                                verduras, carnes, mariscos y otros ingredientes para crear platos completos y equilibrados.</p>
+                        </div>
                     </div>
-                </div>
                     <xsl:for-each select="//receta">
-                        <div class="preview_receta">
-                            <h4><xsl:value-of select="nombre"/></h4>
-                            <p><strong>Dificultad: </strong> <em><xsl:value-of select="difultad"/></em></p>
-                            <p><strong>Cocina: </strong> <em><xsl:value-of select="cocina"/></em></p>
-                            <p><strong>Vegano: </strong> <em><xsl:value-of select="vegano"/></em></p>
+                        <div class="contenedor_flex_recetas">
+                            <div class="preview_receta">
+                                <td><img class="preview_imagenes" src="{imagen/@url}" alt="Pomodoro"/></td>
+                                <h4><xsl:value-of select="nombre"/></h4>
+                                <p><strong>Dificultad: </strong> <em><xsl:value-of select="difultad"/></em></p>
+                                <p><strong>Cocina: </strong> <em><xsl:value-of select="cocina"/></em></p>
+                                <p><strong>Vegano: </strong> <em><xsl:value-of select="vegano"/></em></p>
+                            </div>
                         </div>
                     </xsl:for-each>
                 </div>
