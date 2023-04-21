@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="receta.xsl"?>
 <recetas>
     <receta>
-        <nombre>Spaghetti al Pomodoro</nombre>
+        <nombre>SPAGHETTI AL POMODORO</nombre>
         <difultad>Facil</difultad>
         <cocina>Italiana</cocina>
         <vegano>Si</vegano>
@@ -27,7 +27,7 @@
         </instrucciones>
     </receta>
     <receta>
-        <nombre>Lasaña de carne</nombre>
+        <nombre>LASAÑA DE CARNE</nombre>
         <difultad>Media</difultad>
         <cocina>Italiana</cocina>
         <vegano>No</vegano>
@@ -59,7 +59,7 @@
         </instrucciones>
     </receta>
     <receta>
-        <nombre>Fettuccine Alfredo</nombre>
+        <nombre>FETTUCCINE ALFREDO</nombre>
         <difultad>Media</difultad>
         <cocina>Italiana</cocina>
         <vegano>No</vegano>
@@ -83,7 +83,7 @@
         </instrucciones>
     </receta>
     <receta>
-        <nombre>Spaghetti al Pomodoro2</nombre>
+        <nombre>PASTA AL POMODORO</nombre>
         <difultad>Facil</difultad>
         <cocina>Italiana</cocina>
         <vegano>Si</vegano>

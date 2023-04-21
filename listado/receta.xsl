@@ -24,7 +24,7 @@
                     <img class="icon-recetas" src="../icons/chef2.png" alt="receta"/>
                     <div class="intro_receta">
                         <h2>Recetas</h2>
-                        <p>La pasta es un ingrediente básico en la cocina italiana y es muy versátil. Se puede cocinar
+                        <p class="intro_recetas">La pasta es un ingrediente básico en la cocina italiana y es muy versátil. Se puede cocinar
                             de muchas maneras diferentes, desde pastas simples con salsas ligeras hasta platos elaborados
                             con ingredientes más complejos. Algunos de los platos de pasta más populares incluyen spaghetti
                             con salsa de tomate, lasagne, carbonara, alfredo y marinara. La pasta también se puede cocinar con
