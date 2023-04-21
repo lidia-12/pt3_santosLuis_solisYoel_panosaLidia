@@ -8,6 +8,7 @@
         <vegano>Si</vegano>
         <tiempo-preparacion>20 minutos</tiempo-preparacion>
         <imagen url = "../imagenes/Pastas/Pomodoro.jpg"/>
+        <pagina link_pag = "../receta/receta.html"/>
         <ingredientes>
             <ingrediente>500 g de spaghetti</ingrediente>
             <ingrediente>1 cebolla grande</ingrediente>

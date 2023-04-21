@@ -31,9 +31,10 @@
                                 verduras, carnes, mariscos y otros ingredientes para crear platos completos y equilibrados.</p>
                         </div>
                     </div>
-                    <xsl:for-each select="//receta[position() >= 2 and position() &lt;= 5 ]">
+                    <xsl:for-each select="//receta">
                             <xsl:sort select="nombre"/>
                             <div class="contenedor_flex_recetas">
+                                <td><a class="link_preview" href="{pagina/@link_pag}">
                                 <div class="preview_receta">
                                     <td><img class="preview_imagenes" src="{imagen/@url}" alt="Pomodoro"/></td>
                                     <h4><xsl:value-of select="nombre"/></h4>
@@ -41,6 +42,7 @@
                                     <p><strong>Cocina: </strong> <em><xsl:value-of select="cocina"/></em></p>
                                     <p><strong>Vegano: </strong> <em><xsl:value-of select="vegano"/></em></p>
                                 </div>
+                                </a></td>
                             </div>
                     </xsl:for-each>
                 </div>
