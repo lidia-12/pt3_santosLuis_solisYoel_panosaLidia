@@ -182,7 +182,8 @@ body{font-family:arial}
 
 .link_preview{width: 50%;
     text-decoration: none;
-    margin: 0.5%}
+    margin: 0.5%;
+    color: black;}
 
 
 .preview_imagenes{width: 30%;
